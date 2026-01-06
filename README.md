@@ -1,4 +1,4 @@
-# 🤖 RPA — Triagem e Pré-cadastro de Projetos Técnicos (Crédito Rural)
+# 🤖 RPA — Análise e Processamento de Projetos Técnicos (Crédito Rural)
 
 > **Nota:** Este é um projeto corporativo. Por questões de governança e confidencialidade, o código-fonte não será disponibilizado neste repositório.
 
